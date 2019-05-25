@@ -1,5 +1,5 @@
     .page1{
-        background: url('image/0-1.gif') no-repeat;
+        background: url('image/001.jpg') no-repeat;
         background-size: cover;
           
     }
@@ -11,7 +11,7 @@
         position: absolute; 
     }
     .page1 figcaption{
-        color: aliceblue;
+        color:rgb(98, 155, 189);
         font-size: 24px;
         bottom: 2rem;
         left: .8rem;
@@ -19,18 +19,18 @@
         font-family: 'Courier New', Courier, monospace;   
     }
     .page2{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page2 p{
         position: absolute;
         font-size: 40px;
-        color: rgb(169, 193, 214);
+        color: rgb(98, 155, 189);
         font-weight: bolder;
         top: 5rem;
         left: 1.5rem;
     }
     .page3{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;
     }
     .page3 img{
@@ -45,7 +45,7 @@
         position: absolute;
         font-size: .3rem;
         line-height: .6rem;
-        color: rgb(194, 202, 211);
+        color:rgb(98, 155, 189);
         bottom: 1.2rem;
         left: .8rem;
         text-decoration: underline;
@@ -55,7 +55,7 @@
         font-size: .5rem;
     }
     .page4{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page4 img{
         position: absolute;
@@ -69,7 +69,7 @@
         position: absolute;
         font-size: .3rem;
         line-height: .6rem;
-        color: rgb(194, 202, 211);
+        color: rgb(98, 155, 189);
         bottom: 1.2rem;
         left: .8rem;
         text-decoration: underline;
@@ -79,7 +79,7 @@
         font-size: .5rem;
     }
     .page5{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page5 img{
         position: absolute;
@@ -93,7 +93,7 @@
         position: absolute;
         font-size: .3rem;
         line-height: .6rem;
-        color: rgb(194, 202, 211);
+        color: rgb(98, 155, 189);
         bottom: 1rem;
         left: .8rem;
         text-decoration: underline;
@@ -103,7 +103,7 @@
         font-size: .5rem;
     }
     .page6{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page6 img{
         position: absolute;
@@ -117,7 +117,7 @@
         position: absolute;
         font-size: .3rem;
         line-height: .6rem;
-        color: rgb(194, 202, 211);
+        color: rgb(98, 155, 189);
         bottom: .5rem;
         left: .4rem;
         text-decoration: underline;
@@ -127,7 +127,7 @@
         font-size: .5rem;
     }
     .page7{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page7 img{
         position: absolute;
@@ -141,7 +141,7 @@
         position: absolute;
         font-size: .3rem;
         line-height: .6rem;
-        color: rgb(194, 202, 211);
+        color: rgb(98, 155, 189);
         bottom: 1.2rem;
         left: .8rem;
         text-decoration: underline;
@@ -151,7 +151,7 @@
         font-size: .5rem;
     }
     .page8{
-        background: url(image/0-1.gif) no-repeat;
+        background: url(image/001.jpg) no-repeat;
         background-size: cover;}
     .page8 p{
         position: absolute;

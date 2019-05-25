@@ -1,0 +1,358 @@
+    .page1{
+        background: url('image/0-1.gif') no-repeat;
+        background-size: cover;
+          
+    }
+    .page1 img{
+        width: 6rem;
+        height: 8rem;
+        left: .8rem;
+        top: 1.5rem;
+        position: absolute; 
+    }
+    .page1 figcaption{
+        color: aliceblue;
+        font-size: 24px;
+        bottom: 2rem;
+        left: .8rem;
+        position: absolute;
+        font-family: 'Courier New', Courier, monospace;   
+    }
+    .page2{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page2 p{
+        position: absolute;
+        font-size: 40px;
+        color: rgb(169, 193, 214);
+        font-weight: bolder;
+        top: 5rem;
+        left: 1.5rem;
+    }
+    .page3{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;
+    }
+    .page3 img{
+        position: absolute;
+        top: .5rem;
+        width: 5rem;
+        height: 6rem;
+        left: 1.2rem;
+        border-radius: 30%;
+    }
+    .page3 ul{
+        position: absolute;
+        font-size: .3rem;
+        line-height: .6rem;
+        color: rgb(194, 202, 211);
+        bottom: 1.2rem;
+        left: .8rem;
+        text-decoration: underline;
+    }
+    .page3 ul strong{
+        color: rgb(101, 167, 145);
+        font-size: .5rem;
+    }
+    .page4{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page4 img{
+        position: absolute;
+        top: .5rem;
+        width: 5rem;
+        height: 6rem;
+        left: 1.2rem;
+        border-radius: 30%;
+    }
+    .page4 ul{
+        position: absolute;
+        font-size: .3rem;
+        line-height: .6rem;
+        color: rgb(194, 202, 211);
+        bottom: 1.2rem;
+        left: .8rem;
+        text-decoration: underline;
+    }
+    .page4 ul strong{
+        color: rgb(101, 167, 145);
+        font-size: .5rem;
+    }
+    .page5{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page5 img{
+        position: absolute;
+        top: .5rem;
+        width: 5rem;
+        height: 6rem;
+        left: 1.2rem;
+        border-radius: 30%;
+    }
+    .page5 ul{
+        position: absolute;
+        font-size: .3rem;
+        line-height: .6rem;
+        color: rgb(194, 202, 211);
+        bottom: 1rem;
+        left: .8rem;
+        text-decoration: underline;
+    }
+    .page5 ul strong{
+        color: rgb(101, 167, 145);
+        font-size: .5rem;
+    }
+    .page6{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page6 img{
+        position: absolute;
+        top: .5rem;
+        width: 5rem;
+        height: 6rem;
+        left: 1.2rem;
+        border-radius: 30%;
+    }
+    .page6 ul{
+        position: absolute;
+        font-size: .3rem;
+        line-height: .6rem;
+        color: rgb(194, 202, 211);
+        bottom: .5rem;
+        left: .4rem;
+        text-decoration: underline;
+    }
+    .page6 ul strong{
+        color: rgb(101, 167, 145);
+        font-size: .5rem;
+    }
+    .page7{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page7 img{
+        position: absolute;
+        top: .5rem;
+        width: 5rem;
+        height: 6rem;
+        left: 1.2rem;
+        border-radius: 30%;
+    }
+    .page7 ul{
+        position: absolute;
+        font-size: .3rem;
+        line-height: .6rem;
+        color: rgb(194, 202, 211);
+        bottom: 1.2rem;
+        left: .8rem;
+        text-decoration: underline;
+    }
+    .page7 ul strong{
+        color: rgb(101, 167, 145);
+        font-size: .5rem;
+    }
+    .page8{
+        background: url(image/0-1.gif) no-repeat;
+        background-size: cover;}
+    .page8 p{
+        position: absolute;
+        font-size: 40px;
+        color: rgb(169, 193, 214);
+        font-weight: bolder;
+        top: 5rem;
+        left: 1.5rem;
+    }
+    .page9{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page9 img{
+        position: absolute;
+        width: 7rem;
+        height: 6rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%; 
+    }
+    .page9 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page10{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page10 img{
+        position: absolute;
+        width: 7rem;
+        height: 6rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%; 
+    }
+    .page10 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page11{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page11 img{
+        position: absolute;
+        width: 7rem;
+        height: 6rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;      
+    }
+    .page11 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page12{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page12 img{
+        position: absolute;
+        width: 6rem;
+        height: 6rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;    
+    }
+    .page12 p{
+        top:6.5rem;
+        overflow: hidden;
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page13{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page13 img{
+        position: absolute;
+        width: 7rem;
+        height: 8rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;   
+    }
+    .page13 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page14{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page14 img{
+        position: absolute;
+        width: 7rem;
+        height: 8rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;    
+    }
+    .page14 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page15{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page15 img{
+        position: absolute;
+        width: 7rem;
+        height: 6rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;   
+    }
+    .page15 p{
+        font-size: .4rem;
+        top: 7rem;
+        overflow: hidden;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page16{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page16 img{
+        position: absolute;
+        width: 7rem;
+        height: 8rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;  
+    }
+    .page16 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page17{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page17 img{
+        position: absolute;
+        width: 7rem;
+        height: 8rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;     
+    }
+    .page17 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    .page18{
+        background: url(image/00.jpg) no-repeat;
+        background-size: cover;
+    }
+    .page18 img{
+        position: absolute;
+        width: 7rem;
+        height: 8rem;
+        top : .5rem;
+        left: .25rem;
+        border-radius: 50%;    
+    }
+    .page18 p{
+        font-size: .4rem;
+        bottom: .5rem;
+        left: .5rem;
+        color: rgb(146, 178, 206);
+        position: absolute;
+    }
+    
